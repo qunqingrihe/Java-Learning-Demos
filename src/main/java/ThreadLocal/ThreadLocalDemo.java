@@ -2,6 +2,8 @@ package ThreadLocal;
 
 import java.text.SimpleDateFormat;
 import java.util.Random;
+import java.util.concurrent.ThreadFactory;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * ThreadLocalDemo类实现了Runnable接口，用于演示ThreadLocal的使用。
