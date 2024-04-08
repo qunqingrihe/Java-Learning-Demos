@@ -88,6 +88,13 @@
             <artifactId>spring-context-support</artifactId>
             <version>6.0.3</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.redisson/redisson -->
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.15.5</version>
+        </dependency>
+
     </dependencies>
 
     <!-- Maven 插件配置 -->

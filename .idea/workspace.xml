@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99bd9c17-0242-4edd-9e56-cd55dc184e50" name="更改" comment="deadLock">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpringbootDemo/LifecycleDemoBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpringbootDemo/LifecycleDemoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadLocal/NamingThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadLocal/ThreadPoolExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TreeNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SpringbootDemo/LifecycleDemoTestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TreeNumberGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Redisson/MyRedissonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadLocal/ThreadLocalLeakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadLocal/UserInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocal/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocal/ThreadLocalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadLocal/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadLocal/ThreadLocalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,9 @@
         <option name="userSettingsFile" value="I:\Server\apache-maven-3.9.4-bin\apache-maven-3.9.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -83,6 +81,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ThreadLocal" />
       <recent name="SpringbootDemo" />
       <recent name="Caffeine" />
     </key>
@@ -197,6 +196,13 @@
       <workItem from="1710810944170" duration="839000" />
       <workItem from="1711355280630" duration="3559000" />
       <workItem from="1711517145322" duration="848000" />
+      <workItem from="1711599114041" duration="1412000" />
+      <workItem from="1711765245253" duration="49000" />
+      <workItem from="1711854635839" duration="279000" />
+      <workItem from="1712334151548" duration="14000" />
+      <workItem from="1712334216649" duration="2000" />
+      <workItem from="1712334228200" duration="411000" />
+      <workItem from="1712334650763" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="deadLock">
       <option name="closed" value="true" />
